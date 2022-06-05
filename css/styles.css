@@ -1,0 +1,25 @@
+/*select {propiedad : valor;}*/
+body {
+  background-color: #BDF2D5;
+}
+
+img {
+  width: 60%;
+  height: 30%;
+}
+
+hr {
+  background-color: #FF06B7;
+  border-style: none;
+  height: 1px;
+  width: 10%;
+}
+p{
+color: #4B5D67;
+}
+h1{
+  color: #FF06B7;
+}
+h3{
+  color: #FF06B7;
+}
